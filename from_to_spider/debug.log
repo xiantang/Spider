@@ -1,0 +1,15 @@
+[0330/141118.006:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0330/141118.008:ERROR:exception_snapshot_win.cc(88)] thread ID 298356 not found in process
+[0330/141118.008:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0330/161303.969:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0330/161303.976:ERROR:exception_snapshot_win.cc(88)] thread ID 319808 not found in process
+[0330/161303.976:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0330/181118.916:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0330/181118.924:ERROR:exception_snapshot_win.cc(88)] thread ID 342656 not found in process
+[0330/181118.924:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0331/110917.700:ERROR:process_info.cc(329)] VirtualQueryEx: 拒绝访问。 (0x5)
+[0331/110917.701:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0331/110917.701:ERROR:process_reader_win.cc(242)] ReadMemory at 0x721d060 of 12 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0331/110917.701:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0331/110917.701:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0331/110917.701:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
